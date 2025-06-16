@@ -27,7 +27,7 @@ cd airbnb-occupancy-predictor
 2️⃣ (Optional) Create and activate a virtual environment:
 python -m venv venv
 venv\Scripts\activate  # For Windows
-# or
+#or
 source venv/bin/activate  # For Mac/Linux
 
 3️⃣ Install dependencies:
